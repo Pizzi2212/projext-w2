@@ -1,0 +1,188 @@
+/* Your styles here */
+body {
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+header img {
+    margin-left: 3em;
+    padding-bottom: 1em;
+    padding-top: 1em
+}
+
+header div {
+    background-color: #222F3F;
+}
+header menu {
+    background-color: #364759;
+   padding-top: 1em;
+   padding-bottom: 1em;
+}
+
+header > menu > a {
+    color: white;
+    margin-left: 2em;
+    padding-bottom: 1em;
+    
+}
+a {
+    text-decoration: none;
+}
+
+.textCenter {
+    background-color:#F56600 ;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 4em;
+    margin-right: 4em;
+    padding: 1em;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+}
+
+#guides {
+    color: white;
+    text-align: center;
+    background-image: url('../images/bg-image.png'), url('../images/bg-img.png');
+    background-position: left top, right bottom;
+    background-size: contain, cover;
+    background-repeat: repeat, repeat;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    background-position: center;;
+    margin-right: 6em;
+    margin-left: 6em;
+}
+
+#holiday{
+ padding-bottom: 1em;
+ font-size: 3em;
+ font-weight: bold;
+}
+
+main > section > h5 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+ #find {
+    margin-left: 2.5em;
+    padding-top: 2em;
+    font-weight: bold;
+    font-size: 20px;
+ }
+ #shop {
+    margin-left: 1em;
+    font-size: 18px;
+ }
+
+#section4img {
+    border: solid 1px #dee1e3;
+    margin-bottom: 2em;
+    margin-left: 6em;
+    margin-right: 6em;
+    margin-top: 3em;
+    padding-right: 2em;
+
+}
+#section4img a {
+    color: #7CC4CA ;
+}
+#section4img img {
+    
+    margin-left: 6em;
+    margin-right: 4em;
+    border-radius: 38px;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    
+}
+#section4img > section {
+    display: inline-block;
+}
+
+ 
+#widhtimg {
+    width: 100%;
+}
+#widhtradio{
+    width: 100%;
+}
+ #vr {
+   padding-top: 2em;
+   margin-right: 6em;
+   margin-left: 6em;
+  display: inline-block;
+ }
+
+ #play {
+    display: inline;
+    font-weight: bold;
+    margin: 1.5em;
+    font-size: 25px;
+    padding: 1em;
+ }
+
+ #playshop{
+    text-align: center;
+    padding-bottom: 3em;
+    padding-top: 0.5em;
+    
+ }
+
+ #shopgame {
+    color:#638F9D ;
+    font-size: 20px;
+    margin-right: 4em;
+ }
+
+ #radio {
+    padding-top: 2em;
+    margin-right: 6em;
+    margin-left: 6em;
+ 
+  }
+ 
+  #sound {
+     display: inline;
+     font-weight: bold;
+     margin: 1.5em;
+     font-size: 25px;
+     padding: 1em;
+  }
+ 
+  #soundshop {
+     text-align: center;
+     padding-bottom: 3em;
+     padding-top: 0.5em;
+     padding-left: 10em;
+     
+  }
+ 
+  #audioshop {
+     color:#638F9D ;
+     font-size: 20px;
+     margin-right: 4em;
+  }
+
+  #back {
+    background-color:#364759 ;
+    text-align: center;
+    padding: 1.5em;
+    
+  }
+#back a {
+    color: white;
+    
+}
+
+footer {
+    background-color: #222F3F;
+   padding-top: 6em;
+   padding-bottom: 6em;
+   text-align: center;
+}
+footer img {
+       display: inline-block;  
+}
